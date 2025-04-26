@@ -1,0 +1,230 @@
+
+    body {
+      background-color: wheat;
+      }
+
+      .alt {
+        cursor: pointer;
+        font-family: courier;
+        font-weight: bolder;
+        color: navy;
+        font-style: italic;
+        font-size: larger;
+        margin-bottom: 0px;
+      }
+
+      .devine-tri {
+        font-weight: bolder;
+        font-size: 80px;
+        font-family: tahoma;
+        cursor: pointer;
+        background-color: burlywood;
+      }
+
+      .devine-tri:hover {
+        color: silver;
+        background-color: gold;
+      }
+      .devine-tri:active {
+        color: azure;
+        background-color: red;
+      }
+
+      .telephone {
+        font-size: 40px;
+        font-style: italic;
+        cursor: pointer;
+        font-weight: bolder;
+        margin-bottom: 0px;
+      }
+      .telephone:hover {
+        background-color: blue;
+        color: rgba(236, 14, 173, 0.601);
+      }
+      .telephone:active {
+        color: black;
+        background-color: rgb(86, 180, 217);
+      }
+
+      .whatsapp {
+        display: inline-block;
+        font-style: italic;
+        font-size: 30px;
+        color: white;
+        background-color: rgba(6, 187, 6, 0.785);
+        border: none;
+        border-radius: 190px;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        cursor: pointer;
+      }
+      
+      .whatsapp:hover {
+        color: purple;
+        background-color: green;
+      }
+
+      .whatsapp:active {
+        color: aqua;
+        background-color: rgb(4, 36, 65);
+      }
+
+      .nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px 20px;
+        background-color: #f4f4f4;
+        font-family: arial,sans-serif;
+        cursor: pointer;
+
+      }
+      .left-selection img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        margin: 5px;
+        cursor: pointer;
+        display: inline-block;
+
+      }
+      .left-selection h4 {
+        margin: 5px;
+        cursor: pointer;
+        display: inline-block;
+      }
+
+      button {
+        padding: 10px 20px;
+        font-size: 14px;
+        cursor: pointer;
+        background-color: #1da1f2;
+        color: azure;
+        border: none;
+        border-radius: 20px;
+      }
+
+      button:hover {
+        color: black;
+        background-color: goldenrod;
+      }
+
+      .we-do {
+        display: inline-block;
+        cursor: pointer;
+        font-family: tahoma;
+        width: 700px;
+        font-size: 25px;
+        font-weight: bolder;
+      }
+
+      .we-do:hover {
+        color: rgb(59, 49, 49);
+
+      }
+
+      .we-do:active {
+        color: rgba(162, 94, 11, 0.863);
+      }
+
+      .foremost {
+        cursor: pointer;
+        font-size: xx-large;
+        font-weight: bolder;
+        font-style: italic;
+        text-decoration: underline;
+      }
+
+      .honey-tittle {
+        display: inline-block;
+        width: 300px;
+        font-style: italic;
+        cursor: pointer;
+        font-weight: bold;
+      }
+
+      
+
+      .autho-topic {
+        color: navy;
+        text-decoration: underline;
+      } 
+
+      .autho-topic:hover {
+        color: red;
+      }
+
+      .autho-topic:active {
+        color: rgb(33, 20, 20);
+      }
+
+      .auto-img {
+        width: 300px;
+        height: 240px;
+        margin-left: 45px;
+        display: inline-block;
+      }
+
+      .intresting {
+        text-align: center;
+        cursor: pointer;
+        font-size: xx-large;
+        font-weight: bolder;
+        font-style: italic;
+        text-decoration: underline;
+      }
+
+      .preview-inter {
+        background-color: rgb(67, 8, 8);
+      }
+      
+
+      .preview-intrest {
+        text-align: center;
+        cursor: pointer;
+        font-style: italic;
+        color: white;
+      }
+
+      .preview-text {
+        font-weight: bolder;
+        cursor: pointer;
+        font-style: italic;
+        
+      }
+
+      .company-contact {
+        width: 550px;
+        cursor: pointer;
+        color: blue;
+        
+        font-style: italic;
+      }
+
+      .company-contact:hover {
+        text-decoration: underline;
+      }
+      
+
+
+
+
+
+
+      
+
+      
+     
+
+      
+
+
+     
+
+
+
+      
+
+
